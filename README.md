@@ -35,4 +35,4 @@ I consider myself a proactive person and attentive to details.
   <br />
     - Gmail: natalypradomoreno@gmail.com
   <br />
-    - CV: <a href="https://www.canva.com/design/DAFCN8gM6fM/3H3nii2ISU9V95nRNv5nwQ/view?utm_content=DAFCN8gM6fM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" />Clickea aqui</a>
+    - CV: <a href="https://www.canva.com/design/DAFCN8gM6fM/3H3nii2ISU9V95nRNv5nwQ/view?utm_content=DAFCN8gM6fM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" />Click here</a>
